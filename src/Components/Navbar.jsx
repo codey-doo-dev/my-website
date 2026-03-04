@@ -11,6 +11,8 @@ const Navbar = () => {
       <li className="px-4 py-2 hover:bg-gray-700 cursor-pointer">About</li>
       <li className="px-4 py-2 hover:bg-gray-700 cursor-pointer">Contact</li>
     </ul>
+    <button>Sign up</button>
+    <button>Sign in</button>
    </div>
     </nav>
   )
