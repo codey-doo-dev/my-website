@@ -1,5 +1,6 @@
 import Navbar from "./Components/Navbar";
-
+import { Btn } from "./Components/Btn";
+import { Main } from "./Components/Main";
 function App() {
   return (
     <>
