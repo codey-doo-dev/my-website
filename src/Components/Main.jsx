@@ -2,7 +2,7 @@ import React from 'react'
 
 const Main = () => {
   return (
-    <div>
+    <div className='flex flex-col bg-gray-100'>
       
     </div>
   )
